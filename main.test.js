@@ -1,4 +1,5 @@
-import sortingHat from "./main";
+import sortingHat from "./theBlindOne";
+import sortingHat from "./theGuidedOne";
 import { test, expect } from "vitest";
 
 // test("Sorting hat should return retired message when out of sorts", () => {
